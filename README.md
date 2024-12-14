@@ -1,5 +1,5 @@
 # assemblyTask
-Challenges Tuần 1 - Lập trình ASM
+## Challenges Tuần 1 - Lập trình ASM
 
 ASM #1 - Hello World - 100 điểm Viết chương trình in ra màn hình dòng chữ "Hello, World!" Yêu cầu:
 
@@ -18,7 +18,7 @@ ASM #4 - Simple Addition - 100 điểm Viết chương trình tính tổng 2 s�
 Hệ điều hành: Windows & Linux
 Độ lớn tối đa số nhập vào: 31-bit (2^31 - 1)
 
-Challenges Tuần 2 - Lập trình ASM
+## Challenges Tuần 2 - Lập trình ASM
 
 Bài 5. Viết chương trình tìm xâu con: - Nhập vào xâu S (100 ký tự) và xâu C (10 ký tự) - Tìm số lần xuất hiện xâu con C trong xâu S và các vị trí xuất hiện Yêu cầu: - HĐH: Win + Linux - Input vào từ bàn phím xâu S và C - Output: Dòng 1 chứa tổng số lần xuất hiện xâu con C, Dòng 2 chứa vị trí xuất hiện xâu con C (tính từ 0 là vị trí bắt đầu xâu S) - Sử dụng ít nhất 1 procedure Vd: INPUT: S = Cong hoa xa hoi chu nghia Viet Nam C = ho OUTPUT: 2 5 12
 
